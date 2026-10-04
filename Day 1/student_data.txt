@@ -1,0 +1,13 @@
+Student Name: Mogitha
+Department: Artificial Intelligence and Data Science
+
+Data Structures: 85
+Mathematics: 78
+Artificial Intelligence: 88
+DBMS: 82
+
+Mathematics Assignment: Pending
+Mathematics Deadline: 25 September 2026
+
+DBMS Assignment: Pending
+DBMS Deadline: 27 September 2026
